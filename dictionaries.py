@@ -1,6 +1,6 @@
 dict1={
-    "name": "swastik",
-    "roll no" : "316",
+    "name": "sumit",
+    "roll no" : "341",
     "department": "cse" }
 print((dict1))
 print(dict['name']) #printing specific value using key
